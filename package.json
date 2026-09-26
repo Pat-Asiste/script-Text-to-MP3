@@ -1,5 +1,24 @@
 {
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Pat-Asiste/script-Text-to-MP3-#readme",
+  "bugs": {
+    "url": "https://github.com/Pat-Asiste/script-Text-to-MP3-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pat-Asiste/script-Text-to-MP3-.git"
+  },
+  "license": "ISC",
+  "author": "Pat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "msedge-tts": "^2.0.8"
-  }
+  },
+  "devDependencies": {}
 }
